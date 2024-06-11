@@ -1,0 +1,18 @@
+.container {
+    margin: 0 autor;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+img {
+    width: 200px;
+    height: 250px;
+}
+
+.flexbox {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around;
+    padding: 10px;
+}
