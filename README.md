@@ -7,13 +7,11 @@ This project is a simulation of Rock Paper Scissors game between you and the com
 
 <h2>Languages and Utilities Used</h2>
 
-<b>HTML</b> 
-- <b>CSS</b>
-- <b>JavaScript</b>
+<b>HTML-CSS-JavaScript</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Visual Studio Code</b>
+<b>Visual Studio Code</b>
 
 <h2>Program walk-through:</h2>
 
@@ -23,7 +21,11 @@ Launch the index.html: <br/>
 <br />
 <br />
 Click on your option and see the result:  <br/>
-<img src="" height="80%" width="80%" alt="Click and see the option"/>
+<img src="https://i.imgur.com/KoILPix.png" height="80%" width="80%" alt="Click and see the option"/>
+<img src="https://i.imgur.com/y2KKD8u.png" height="80%" width="80%" alt="Click and see the option"/>
+<img src="https://i.imgur.com/RtiERDr.png" height="80%" width="80%" alt="Click and see the option"/>
+
+
 
 </p>
 
